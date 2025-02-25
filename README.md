@@ -8,6 +8,9 @@
   
          
 🔗 **웹사이트:** [https://findmymeme.site](https://findmymeme.site)  
+🔗 **FE Repository:** [https://github.com/AhnSeene/find-my-meme-frontend](https://github.com/AhnSeene/find-my-meme-frontend)
+🔗 **BE Repository:** [https://github.com/AhnSeene/find-my-meme-backend](https://github.com/AhnSeene/find-my-meme-backend)
+
 ### 🚀 주요 기능 
 **FindMyMeme**는 밈을 업로드하고 검색하며, 찾고 싶은 밈을 찾는 질문 글을 올릴 수 있습니다.
 
